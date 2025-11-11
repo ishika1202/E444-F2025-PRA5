@@ -2,7 +2,7 @@
 
 ## Application Screenshot
 
-![Application Demo](Screenshot%202025-11-11%20at%2010.24.20%20AM.png)
+![Application Demo](demo.png)
 
 ## Performance Results
 
